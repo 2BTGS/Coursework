@@ -2,11 +2,11 @@
 #include <stdlib.h>
 #include <string.h>
 
-/* algorithm implementation */
 char *algorithm(char *input)
 {
     char *result;
-    int len, i;
+    int len;
+    int i;
     char c;
 
     if (input == NULL) {
