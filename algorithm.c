@@ -45,3 +45,7 @@ char *algorithm(char *input)
     result[len] = '\0';
     return result;
 }
+
+
+
+
